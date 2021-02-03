@@ -1,0 +1,53 @@
+.avatar img {
+    width: 100px;
+    height: 100px;
+    border-radius: 40%;
+    margin-bottom: 20px
+}
+
+.subscribe {
+    color: #fff;
+    display:block;
+    width: 105px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 7px 14px;
+    text-decoration: none;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+    background-color: rgb( 43, 153, 91 );
+    border: 1px solid rgb( 33, 126, 74 );
+}
+
+.subscribe:hover {
+    background-color: rgb( 75, 183, 141 );
+}
+
+.subscribe:active {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    padding: 40px 40px 40px 100px;
+}
+
+.avaAndBut {
+    flex: 0 1 10%;
+}
+
+.userInfo {
+    flex: 0 1 80%;
+    height: 150px;
+    border-radius: 5%;
+    border: 2px solid grey;
+}
+
+.page span {
+    margin: 0 10px;
+}
+
+.changedPage {
+    font-weight: bold;
+}

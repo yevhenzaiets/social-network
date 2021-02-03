@@ -1,0 +1,8 @@
+.main-page {
+  display: grid;
+  grid-template-areas: 
+  "t t"
+  "m a";
+
+  grid-template-columns: 2fr 10fr;
+}

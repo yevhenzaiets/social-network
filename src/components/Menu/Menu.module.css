@@ -1,0 +1,20 @@
+.menu {
+    grid-area: m;
+    background-color: azure;
+    padding: 5px;
+}
+
+.menu ul li a {
+    color: chocolate;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.menu ul li :active {
+    color: gold;
+}
+
+.menu ul li {
+    text-decoration: none;
+    list-style-type: none;
+}

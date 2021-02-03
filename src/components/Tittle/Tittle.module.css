@@ -1,0 +1,20 @@
+.tittle {
+    grid-area: t;
+    background-color: yellow;
+}
+
+.image img {
+    padding: 5px 30px;
+    width: 100px;
+    height: 80px;
+}
+
+.log {
+    float: right;
+    text-align: center;
+    color: black;
+}
+
+/*.log span {*/
+/*    background: black;*/
+/*}*/

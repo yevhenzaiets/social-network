@@ -1,0 +1,16 @@
+.paginator span {
+    margin: 0 5px;
+}
+
+.paginator {
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    height: 50px;
+    /*background: black;*/
+}
+
+.currentPage {
+    font-weight: bold;
+}
+
