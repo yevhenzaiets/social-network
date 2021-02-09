@@ -1,0 +1,1 @@
+{"version":3,"sources":["ControlForm.module.css"],"names":[],"mappings":"AAAA,iIAGI,oBACJ,CAEA,8BACI,oBAAqB,CACrB,WACJ","file":"6.aaf4e777.chunk.css","sourcesContent":[".formControl.error input,\r\n.formControl.error textarea\r\n{\r\n    border: 1px solid red;\r\n}\r\n\r\n.formError {\r\n    border: 1px solid red;\r\n    padding: 5px;\r\n}"]}
